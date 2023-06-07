@@ -102,7 +102,6 @@ To run tests, run the following command:
 - npx eslint .
 
 ### Deployment
-
 I have deployed this project using: Github pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
