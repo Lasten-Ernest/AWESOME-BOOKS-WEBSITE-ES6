@@ -1,7 +1,7 @@
 const navLinks = document.querySelectorAll('.links');
 const listPage = document.querySelector('.list');
 const addPage = document.querySelector('.addBooks');
-const contactPage = document.querySelector('.contact');
+const contactPage = document.querySelector('.contact_details');
 
 const navigation = () => {
   navLinks.forEach((link, index) => {

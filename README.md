@@ -91,9 +91,7 @@ To run tests, run the following command:
 N/A
 
 ### Deployment
-
-You can deploy this project using:
-N/A
+I have deployed this project using: Github pages
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
