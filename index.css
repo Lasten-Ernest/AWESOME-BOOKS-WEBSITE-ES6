@@ -143,7 +143,8 @@ header ul li:nth-child(1) {
   padding: 7px;
 }
 
-.navigation, .footer {
+.navigation,
+.footer {
   border: 2px solid blueviolet;
 }
 
