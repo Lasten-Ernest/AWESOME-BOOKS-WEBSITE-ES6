@@ -83,25 +83,25 @@ header ul li:nth-child(1) {
   flex-direction: column;
 }
 
-.contact {
+.contact_details {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
 }
 
-.contact-text {
+.contact_infor {
   font-size: 20px;
   margin-bottom: 10px;
 }
 
-.contact-info {
-  font-size: 18px;
-  list-style: disc;
+.contact_list {
+  margin-left: 50px;
 }
 
-.contact-list {
-  margin-left: 50px;
+.information {
+  font-size: 18px;
+  list-style: disc;
 }
 
 .hide_div {
